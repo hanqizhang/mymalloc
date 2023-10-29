@@ -1,3 +1,3 @@
-# mymalloc
+# My C malloc implementation
 
-partial code coming soon.
+Partial code (to prevent plagiarism) for my solution to the malloc homework from the [CSAPP book](https://csapp.cs.cmu.edu).
